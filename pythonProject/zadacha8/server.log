@@ -1,0 +1,5 @@
+2025-05-29 11:15:58,832 - INFO - Server is starting
+2025-05-29 11:15:58,833 - INFO - Port 12345 is listening
+2025-05-29 11:16:18,204 - INFO - Client is accepted
+2025-05-29 11:16:18,204 - INFO - Client address: 127.0.0.1
+2025-05-29 11:16:18,204 - INFO - Client port: 52041

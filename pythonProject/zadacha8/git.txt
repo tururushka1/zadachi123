@@ -1,0 +1,93 @@
+    1  uname
+    2  uname -v
+    3  uname -r
+    4  sudo apt update
+    5  sudo apt install chromium
+    6  sudo systemctl status snapd
+    7  sudo apt install snapd
+    8  sudo apt install snap
+    9  sudo systemctl status snapd
+   10  sudo rm /etc/apt/preferences.d/nosnap.pref
+   11  sudo apt install snapd snapd-xdg-open
+   12  sudo snap install pycharm-community --classic
+   13  sudo apt-get install python3-setuptools python3-pip python3-tk python3-venv git -y
+   14  shutdown -r now
+   15  git status
+   16  git add mygit.py
+   17  git status
+   18  git commit -m "Init print string"
+   19  git status
+   20  git add .idea/
+   21  git status
+   22  git log --oneline
+   23  git status
+   24  git add mygit.pu
+   25  git add mygit.py
+   26  git commit -m "My first program"
+   27  git log --oneline
+   28  git status
+   29  git add
+   30  git add .
+   31  git commit -m "added sum"
+   32  git log --oneline
+   33  git add .
+   34  git commit -m "added dev"
+   35  git log --oneline
+   36  git add .
+   37  git commit -m "added mul"
+   38  git log --oneline
+   39  git add .
+   40  git commit -m "added div"
+   41  git log --oneline
+   42  git branch
+   43  git branch readme
+   44  git branch
+   45  git checkout readme 
+   46  git status
+   47  git add .
+   48  git commit -m "added documentation"
+   49  git log --oneline
+   50  git checkout master 
+   51  git branch
+   52  git merge readme
+   53  git branch -D readme 
+   54  git@github.com:fa-python-network/1_echo_server.git
+   55  mkdir pi232echo
+   56  cd mkdir pi232echo/
+   57  cd pi232echo/
+   58  git clone git@github.com:fa-python-network/1_echo_server.git
+   59  git clone git@github.com:fa-python-network/1_echo_server.git .
+   60  cd
+   61  mkdir pi232echo
+   62  cd pi232echo/
+   63  git clone git@github.com:fa-python-network/1_echo_server.git .
+   64  git remote remove origin
+   65  git remote add origin git@github.com:fa-python-network/1_echo_server.git
+   66  git remote set-url origin git@github.com:fa-python-network/1_echo_server.git
+   67  git push -u origin master
+   68  git remote remove origin
+   69  git remove add origin git@github.com:TheDarkSoverign/pi232echo.git
+   70  git remote add origin git@github.com:TheDarkSoverign/pi232echo.git
+   71  git remote set-url origin git@github.com:TheDarkSoverign/pi232echo.git
+   72  git push -u origin master
+   73  code .
+   74  pycharm .
+   75* pycharm-community .
+   76  python3 server.py
+   77  git add .
+   78  git status 
+   79  git commit -m "zadanie 1"
+   80  git push
+   81  git status
+   82  python3 server.py
+   83  git add .
+   84  git commit -m "zadanie 2 listen"
+   85  git push
+   86  git status 
+   87  python3 server.py
+   88  ls
+   89  cat server.log
+   90  git add .
+   91  git commit -m "zadanie 3 po umolchaniu"
+   92  git push
+   93  history > git.txt
